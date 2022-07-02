@@ -1,1 +1,1 @@
-<?php include("./trendtravels.html") ?>
+<?php include("./cv.html") ?>
